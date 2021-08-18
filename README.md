@@ -1,4 +1,4 @@
-# Surf and shakes prokect in Hawai
+# Surf and shakes project in Hawai
 
 ## 1. Overview of the project
 
